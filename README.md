@@ -20,7 +20,10 @@ A Linux-terminal based notepad application written in C++, featuring:
 ## 🧠 Key Features
 
 - **Autocorrect**: When you press space after typing a word, the system checks it against a dictionary (stored as an AVL tree). If not found, it suggests close alternatives (via insertion, deletion, substitution, and reversal).
-  
+
+<img width="1284" height="672" alt="autocorrect_1" src="https://github.com/user-attachments/assets/12f406b6-43be-426d-980c-4bdc954f208f" />
+<img width="1284" height="672" alt="autocorrect_2" src="https://github.com/user-attachments/assets/75cba05c-a61f-43f0-a55a-816f47b56801" />
+
 - **Backspace behavior**: Maintains a state of typed characters to handle undo-like word recovery.
   
 - **File handling**:
