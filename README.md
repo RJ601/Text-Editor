@@ -63,7 +63,7 @@ stty -ixon
 
 ./notepad
 
-##📁 Files
+## 📁 Files
 
 main.cpp: The main source file containing all implementations.
 
@@ -71,13 +71,13 @@ dictionary.txt: Word list used for spell-checking/autocorrect. This file must be
 
 Saved files: Will be created and loaded using terminal prompts during runtime (with .txt extension).
 
-##⚠️ Notes
+## ⚠️ Notes
 
 This program is Linux-only, due to its use of ncurses for terminal UI.
 
 ncurses handles input/output in a terminal-safe way but is not compatible with Windows without WSL or a terminal emulator like Cygwin.
 
-##📝 Controls Summary
+## 📝 Controls Summary
 
 Any key	Type characters
 
