@@ -41,9 +41,9 @@ A Linux-terminal based notepad application written in C++, featuring:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/RJ601/notepad-autocorrect.git
+git clone https://github.com/RJ601/Text-Editor.git
 
-cd notepad-autocorrect
+cd Text-Editor
 
 ### 2. Install Dependencies (if not already installed)
 
