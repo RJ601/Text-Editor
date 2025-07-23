@@ -17,6 +17,11 @@ A Linux-terminal based notepad application written in C++, featuring:
   - Linked list for character tracking
   - AVL tree for dictionary lookup
 
+
+https://github.com/user-attachments/assets/c84971ce-197d-4d94-9211-225df244657f
+
+https://github.com/user-attachments/assets/71d54abc-7d19-4fe5-bc67-6eb922bb176e
+
 ## 🧠 Key Features
 
 - **Autocorrect**: When you press space after typing a word, the system checks it against a dictionary (stored as an AVL tree). If not found, it suggests close alternatives (via insertion, deletion, substitution, and reversal).
@@ -93,3 +98,7 @@ Ctrl + S	Save screen to file
 Ctrl + L	Load file to screen
 
 Esc	Exit the application
+
+## Future Ideas
+
+Would add separate window prompt for file name when ctrl+s or ctrl+l pressed
